@@ -56,7 +56,3 @@ Successful models developed in this competition could have several positive impa
 The Favorita Store Sales Prediction competition provides an opportunity to apply machine learning techniques to a real-world problem in retail. By accurately forecasting sales, participants can contribute to improving inventory management, revenue generation, and disaster response preparedness for grocery retailers in Ecuador.
 
 Happy forecasting! 🛒📈
-
-## Visuals
-
-[Insert any relevant visuals here, such as graphs, charts, or diagrams to illustrate the problem, dataset, or model performance.]
